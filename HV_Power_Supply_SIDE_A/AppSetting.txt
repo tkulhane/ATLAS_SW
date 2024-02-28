@@ -1,0 +1,11 @@
+Name=SIDE A
+ch1_name=TPX 1
+ch2_name=TPX 2
+ch3_name=TPX 3
+Communiaction=Non
+ch1_set=200
+ch2_set=200
+ch3_set=200
+ch1_polarity=Positive
+ch2_polarity=Positive
+ch3_polarity=Positive

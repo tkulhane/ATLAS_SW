@@ -1,0 +1,11 @@
+Name=SIDE C
+ch1_name=TPX 11
+ch2_name=TPX 12
+ch3_name=TPX 13
+Communiaction=Non
+ch1_set=200
+ch2_set=200
+ch3_set=200
+ch1_polarity=Positive
+ch2_polarity=Positive
+ch3_polarity=Positive
